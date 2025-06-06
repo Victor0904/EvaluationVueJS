@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 1,
+    "nom": "Entreprise ABC",
+    "type": "Entreprise",
+    "email": "contact@abc.fr",
+    "telephone": "01 23 45 67 89",
+    "adresse": "123 Avenue des Champs",
+    "codePostal": "75008",
+    "ville": "Paris",
+    "siret": "12345678901234",
+    "notes": "Client important, paiement rapide",
+    "dateCreation": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "nom": "Jean Dupont",
+    "type": "Particulier",
+    "email": "jean.dupont@email.fr",
+    "telephone": "06 12 34 56 78",
+    "adresse": "45 Rue de la Paix",
+    "codePostal": "69000",
+    "ville": "Lyon",
+    "siret": "",
+    "notes": "Particulier, factures mensuelles",
+    "dateCreation": "2024-02-01T14:30:00.000Z"
+  }
+]
